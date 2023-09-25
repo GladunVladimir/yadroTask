@@ -1,0 +1,4 @@
+#define READ_DELAY 0
+#define WRITE_DELAY 0
+#define MOVE_FORWARD_DELAY 0
+#define MOVE_BACKWARD_DELAY 0
